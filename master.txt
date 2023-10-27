@@ -1,1 +1,3 @@
-this is master file. Version 1
+this is master file.
+editing this master file from private branch.
+And this will be Version 2.
